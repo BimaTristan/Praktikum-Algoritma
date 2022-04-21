@@ -1,7 +1,5 @@
 package Tugas;
 
-import Percobaan.Pakaian;
-
 public class StackTugas {
     int size;
     int top;
